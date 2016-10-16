@@ -1,5 +1,5 @@
 % Modify the code below to create the specified image
-
+%YOU ARE A TATTIFACE%
 
 im = zeros(251,201);
 im = uint8(im);
